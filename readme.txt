@@ -1,9 +1,2 @@
-
-hello world！
-
-
-I love you!
-I love you too!
-
-
-tian mimi 
+hello world  !
+githubTest
